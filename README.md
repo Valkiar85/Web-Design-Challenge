@@ -1,7 +1,7 @@
 # Web-Design-Challenge
 
 Website
-https://valkiar85.github.io/orlandogarcia.github.io/
+https://valkiar85.github.io/Web-Design-Challenge/
 
 Landing Page
 index.html
